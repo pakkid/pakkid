@@ -2,7 +2,7 @@
 
 ![Coding This Week](https://waka.hackclub.com/api/badge/U082W89BEG0/interval:week?label=This%20week)
 
-![Coding All Time](https://waka.hackclub.com/api/badge/U082W89BEG0/interval:all_time?label=This%20week)
+![Coding All Time](https://waka.hackclub.com/api/badge/U082W89BEG0/interval:all_time?label=All%20time)
 
 ## Hello
 
