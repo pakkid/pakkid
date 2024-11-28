@@ -1,4 +1,5 @@
 ![Coding Today](https://waka.hackclub.com/api/badge/U082W89BEG0/interval:today?label=Time%20wasted%20today)
+
 ![Coding This Week](https://waka.hackclub.com/api/badge/U082W89BEG0/U082W89BEG0/interval:30_days?label=last%2030d)
 
 ## Hello
